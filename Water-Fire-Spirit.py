@@ -3,7 +3,7 @@ import pyttsx3  # after installing pyttsx3 module we are importing it
 import speech_recognition as s
 
 speech = pyttsx3.init()  # initializing the speech
-speech.setProperty('rate', 150)  # Seting speed percent and volume
+speech.setProperty('rate', 200)  # Seting speed percent and volume
 speech.setProperty('volume', 1)
 
 print("Welcome to Water Fire Spirit Game.")  # introduction to the game
