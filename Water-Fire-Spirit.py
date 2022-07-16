@@ -10,7 +10,7 @@ print("Welcome to Water Fire Spirit Game.")  # introduction to the game
 speech.say("Welcome to Water-Fire-Spirit Game")
 speech.runAndWait()
 
-print("\nRules of the game:\n1."
+print("\nRules of the game are given as below :\n1."
       "Spirit controls water.\n2.Water puts out fire.\n3.Fire scares spirit.")  # rules of the game
 speech.say("Rules of the game")
 speech.say("Spirit controls water")
